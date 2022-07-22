@@ -4,7 +4,7 @@ Me gusta hacer realidad propuestas de diseño para solucionar alguna problemáti
 
 Me gusta los nuevos retos para seguir aprendiendo, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Ramirez-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
+Dejo mi linkedin, por aquí: [![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Ramirez-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
 
 
 <!--
