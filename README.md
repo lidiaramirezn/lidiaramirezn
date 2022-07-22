@@ -1,5 +1,5 @@
 ### Hola, soy Lidia Ramírez 👋👩🏾‍💻
-[![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Ramirez-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=[![Linkedin Badge](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagomordasini/)](https://www.linkedin.com/in/santiagomordasini/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) )](https://www.linkedin.com/in/santiagomordasini/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
 
 
 <!--
