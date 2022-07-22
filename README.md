@@ -1,4 +1,4 @@
-### Hola, soy Lidia Ramírez 👋
+### Hola, soy Lidia Ramírez 👋👩🏾‍💻
 
 
 
