@@ -11,7 +11,8 @@ Mis conocimientos:
   <img align="center" alt="Logo JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
+ 
+ 
 
 Dejo mi linkedin, por aquí: [![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Ramirez-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
 
