@@ -14,7 +14,7 @@ Algunas tecnologías que domino:
 </div> 
 <br> 
 
-Dejo mi linkedin, por aquí: [![Linkedin Badge](https://img.shields.io/badge/-Lidia%20Ramirez-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/](https://img.shields.io/badge/-Santiago%20Mordasini-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiaramirezn/)](https://www.linkedin.com/in/lidiaramirezn/)) 
+[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lidiaramirezn/)
 
 
 <!--
